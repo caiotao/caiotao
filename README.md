@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C# - MySQL - Python - PHP
 - 💞️ I’m looking to collaborate on new jobs
 - 📫 How to reach me caioedy94@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Likes Cake
 
 <!---
 caiotao/caiotao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
