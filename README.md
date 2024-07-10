@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning C# - MySQL - Python - PHP
 - 💞️ I’m looking to collaborate on new jobs
-- 📫 How to reach me @caioedy94@gmail.com
+- 📫 How to reach me caioedy94@gmail.com
 - ⚡ Fun fact: ...
 
 <!---
